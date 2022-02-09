@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dario Pasquali
-    tagline: Full Stack Developer
+    tagline: Postdoc Fellow @ IIT
     avatar: me2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,7 +46,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Research Interests
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -67,113 +67,96 @@ education:
       details: |
         
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Postdoctoral Fellow
+      time: 2022 - Present
+      company: COgNitive Architectures for Collaborative Technologies, Istituto Italiano di Tecnologia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Enable a rover robot from Robotnik to support humans in a industrial workplace.
+        The robot navigates in the environment with context aweareness and functional memory,
+        learning and adapting to its humans fellows.
+    - role: PhD Candidate
+      time: 2019 - 2022
+      company: Robotics Brains and Cognitive Sciences, Istituto Italiano di Tecnologia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Real-time evaluation of physiological metrics to predict the compliance with Social Engineering attacks.
+        - Machine and Deep learning models for behaviour classification and decision forecasting.
+        - High-level human-robot interactions and games with the humanoid robot iCub.
+    - role: Big Data Engineer
+      time: Oct 2018 - Nov 2019
+      company: Data Reply, Milan and Bologna
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Development and deploying process automation with DevOps principles.
+        - Full-stack development of Scala and Python applications, based on Spark and Cloudera, for Big Data processing in the vehicle insurance field.
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Social Engineering Adventure (SEA)
+        #link: ""
+        tagline: "Python textual adventure to challenge players against Social Engineering threats. Real-time control of the humanoid robot iCub (in C++). Multi-modal acquisition and processing of physiological data from an Eyelink 1000, a Tobii Pro Glasses 2 and a Shimmer3 GSR+, used to predict humans' compliance."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Adventurer Robot Companion (ARC)
+        #link: "#"
+        tagline: "Evolution of the SEA project developed during a Visiting Research period at the University of Waterloo (Canada). Exploration of different intervention strategies to prevent humans' compliance using the Furhat robot."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: E2E Lie Detection in HRI
+        #link: "#"
+        tagline: "Machine Learning model to autonomously detect lies based on a real-time pupillometry-based cognitive load evaluation. Implemented on the humanoid robot iCub. Multiple interactions with the same partner improve the model's performance."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Unreliable Treasure Hunt
+        #link: "#"
+        tagline: "On-the-wild human-robot interaction to analyse the building and evolution of trust between a human and a robot. Participants have to find 6 eggs hidden in a room, asking hints to iCub which eventually show technical failures."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    #intro: |
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Detecting Lies is a Child (Robot)'s Play,  Gaze-Based Lie Detection in HRI
+        link: "https://link.springer.com/article/10.1007/s12369-021-00822-5"
+        authors: Pasquali Dario, Gonzalez-Billandon Jonas, Aroyo Mois Alexander, Sandini Giulio, Sciutti Alessandra, Rea Francesco
+        conference: "Internaltional Journal of Social Robotics, 2021"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Expectations Vs. Reality: Unreliability and Transparency in a Treasure Hunt Game with iCub"
+        link: "https://ieeexplore.ieee.org/document/9440726"
+        authors:Aroyo M. Alexander and Pasquali Dario and Kothig Austin and Rea Francesco and Sandini Giulio and Sciutti Alessandra
+        conference: "IEEE Robotos & Automation Letters, 2021"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Can a Robot Catch You Lying? A Machine Learning System to Detect Lies During Interactions
+        link: "https://www.frontiersin.org/articles/10.3389/frobt.2019.00064/full"
+        authors: Gonzalez-Billandon Jonas and Aroyo Alexander M. and Tonelli Alessia and Pasquali Dario and Sciutti Alessandra and Gori Monica and Sandini Giulio and Rea Francesco
+        conference: "Frontiers in Robotics and AI, 2019"
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: Human vs Robot Lie Detector - Better Working as a Team?
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-90525-5_14"
+        authors: Pasquali Dario and Gaggero Davide and Volpe Gualtiero and Rea Francesco and Sciutti Alessandra
+        conference: "International Conference on Social Robotics, 2021"
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: Magic iCub - A humanoid robot autonomously catching your lies in a card game
+        link: "https://dl.acm.org/doi/10.1145/3434073.3444682"
+        authors: Pasquali Dario and Gonzalez-Billandon Jonas and Rea Francesco and Sandini Giulio and Sciutti Alessandra
+        conference: "International Conference on Human-Robot Interaction, 2020"
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
+#
+#      - name: Javascript & jQuery
+#        level: 98%
+#
+#      - name: Angular
+#        level: 98%
+#
+#      - name: HTML5 & CSS
+#        level: 95%
+#
+#      - name: Ruby on Rails
+#        level: 85%
+#
+#      - name: Sketch & Photoshop
+#        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
