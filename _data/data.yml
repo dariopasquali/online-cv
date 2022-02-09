@@ -45,10 +45,10 @@ sidebar:
       - item: Cooking
         link:
 
-#career-profile:
-#    title: Research Interests
-#    summary: |
-#      I focus on 
+career-profile:
+    title: Research Interests
+    summary: |
+      I focus on 
 
 
 education:
@@ -88,24 +88,24 @@ projects:
     title: Projects
     assignments:
       - title: Social Engineering Adventure (SEA)
-        #link: ""
+        link: ""
         tagline: "Python textual adventure to challenge players against Social Engineering threats. Real-time control of the humanoid robot iCub (in C++). Multi-modal acquisition and processing of physiological data from an Eyelink 1000, a Tobii Pro Glasses 2 and a Shimmer3 GSR+, used to predict humans' compliance."
 
       - title: Adventurer Robot Companion (ARC)
-        #link: "#"
+        link: "#"
         tagline: "Evolution of the SEA project developed during a Visiting Research period at the University of Waterloo (Canada). Exploration of different intervention strategies to prevent humans' compliance using the Furhat robot."
 
       - title: E2E Lie Detection in HRI
-        #link: "#"
+        link: "#"
         tagline: "Machine Learning model to autonomously detect lies based on a real-time pupillometry-based cognitive load evaluation. Implemented on the humanoid robot iCub. Multiple interactions with the same partner improve the model's performance."
 
       - title: Unreliable Treasure Hunt
-        #link: "#"
+        link: "#"
         tagline: "On-the-wild human-robot interaction to analyse the building and evolution of trust between a human and a robot. Participants have to find 6 eggs hidden in a room, asking hints to iCub which eventually show technical failures."
 
 publications:
     title: Publications
-    #intro: |
+    intro: |
 
     papers:
       - title: Detecting Lies is a Child (Robot)'s Play,  Gaze-Based Lie Detection in HRI
@@ -133,27 +133,27 @@ publications:
         authors: Pasquali Dario and Gonzalez-Billandon Jonas and Rea Francesco and Sandini Giulio and Sciutti Alessandra
         conference: "International Conference on Human-Robot Interaction, 2020"
 
-#skills:
-#    title: Skills &amp; Proficiency
-#
-#    toolset:
-#      - name: Python & Django
-#        level: 98%
-#
-#      - name: Javascript & jQuery
-#        level: 98%
-#
-#      - name: Angular
-#        level: 98%
-#
-#      - name: HTML5 & CSS
-#        level: 95%
-#
-#      - name: Ruby on Rails
-#        level: 85%
-#
-#      - name: Sketch & Photoshop
-#        level: 60%
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
