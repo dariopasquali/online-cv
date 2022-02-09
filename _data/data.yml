@@ -86,6 +86,11 @@ experiences:
         - Full-stack development of Scala and Python applications, based on Spark and Cloudera, for Big Data processing in the vehicle insurance field.
 projects:
     title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
       - title: Social Engineering Adventure (SEA)
         link: ""
@@ -106,7 +111,10 @@ projects:
 publications:
     title: Publications
     intro: |
-
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+      
     papers:
       - title: Detecting Lies is a Child (Robot)'s Play,  Gaze-Based Lie Detection in HRI
         link: "https://link.springer.com/article/10.1007/s12369-021-00822-5"
