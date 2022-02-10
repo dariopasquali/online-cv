@@ -102,29 +102,29 @@ publications:
     intro: |
       todo
     papers:
-      - title: "Detecting Lies is a Child (Robot)'s Play,  Gaze-Based Lie Detection in HRI"
+      - title: "Detecting Lies is a Child (Robot)'s Play, Gaze-Based Lie Detection in HRI"
         link: "https://link.springer.com/article/10.1007/s12369-021-00822-5"
-        authors: Pasquali Dario, Gonzalez-Billandon Jonas, Aroyo Mois Alexander, Sandini Giulio, Sciutti Alessandra, Rea Francesco
+        authors: <b>Pasquali Dario</b>, Gonzalez-Billandon Jonas, Aroyo Mois Alexander, Sandini Giulio, Sciutti Alessandra, Rea Francesco
         conference: "Internaltional Journal of Social Robotics, 2021"
 
       - title: "Expectations Vs. Reality: Unreliability and Transparency in a Treasure Hunt Game with iCub"
         link: "https://ieeexplore.ieee.org/document/9440726"
-        authors:Aroyo M. Alexander and Pasquali Dario and Kothig Austin and Rea Francesco and Sandini Giulio and Sciutti Alessandra
+        authors: Aroyo M. Alexander,  <b>Pasquali Dario</b>,  Kothig Austin,  Rea Francesco,  Sandini Giulio,  Sciutti Alessandra
         conference: "IEEE Robotos & Automation Letters, 2021"
 
       - title: "Can a Robot Catch You Lying? A Machine Learning System to Detect Lies During Interactions"
         link: "https://www.frontiersin.org/articles/10.3389/frobt.2019.00064/full"
-        authors: Gonzalez-Billandon Jonas and Aroyo Alexander M. and Tonelli Alessia and Pasquali Dario and Sciutti Alessandra and Gori Monica and Sandini Giulio and Rea Francesco
+        authors: Gonzalez-Billandon Jonas,  Aroyo Alexander M.,  Tonelli Alessia,  <b>Pasquali Dario</b>,  Sciutti Alessandra,  Gori Monica,  Sandini Giulio,  Rea Francesco
         conference: "Frontiers in Robotics and AI, 2019"
 
-      - title: "Human vs Robot Lie Detector - Better Working as a Team?"""
+      - title: "Human vs Robot Lie Detector - Better Working as a Team?"
         link: "https://link.springer.com/chapter/10.1007/978-3-030-90525-5_14"
-        authors: Pasquali Dario and Gaggero Davide and Volpe Gualtiero and Rea Francesco and Sciutti Alessandra
+        authors: <b>Pasquali Dario</b>, Gaggero Davide, Volpe Gualtiero,  Rea Francesco,  Sciutti Alessandra
         conference: "International Conference on Social Robotics, 2021"
 
       - title: "Magic iCub - A humanoid robot autonomously catching your lies in a card game"
         link: "https://dl.acm.org/doi/10.1145/3434073.3444682"
-        authors: Pasquali Dario and Gonzalez-Billandon Jonas and Rea Francesco and Sandini Giulio and Sciutti Alessandra
+        authors: <b>Pasquali Dario</b>, Gonzalez-Billandon Jonas,  Rea Francesco,  Sandini Giulio,  Sciutti Alessandra
         conference: "International Conference on Human-Robot Interaction, 2020"
 
 skills:
