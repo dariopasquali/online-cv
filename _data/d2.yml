@@ -1,0 +1,156 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Dario Pasquali
+    tagline: Postdoc Fellow @ IIT
+    avatar: me2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: dario.pasquali@iit.it
+    phone: +39 3247956801
+    website: dariopasquali.github.io #do not add http://
+    linkedin: dario-pasquali
+    github: dariopasquali
+    gitlab:
+    bitbucket:
+    twitter: '@DarioPasquali'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+
+    languages:
+      - idiom: Italian
+        level: Native
+
+      - idiom: English
+        level: Professional
+        
+    interests:
+      - item: Boardgames & Miniature Painting
+        link:
+
+      - item: Beer homebrewing
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      TODO
+education:
+    - degree: MSc in Computer Engineering
+      university: University of Bologna
+      time: 2015 - 2018
+      details: |
+        Specialization in Artificial Intelligence and Software Engineering. Final degree 110/110 Summa Cum Laudae
+    - degree: BSc in Computer Engineering
+      university: University of Bologna
+      time: 2012 - 2015
+      details: |
+        todo 
+experiences:
+    - role: Postdoctoral Fellow
+      time: 2022 - Present
+      company: COgNitive Architectures for Collaborative Technologies, Istituto Italiano di Tecnologia
+      details: |
+        Enable a rover robot from Robotnik to support humans in a industrial workplace.
+        The robot navigates in the environment with context aweareness and functional memory,
+        learning and adapting to its humans fellows. 
+    - role: PhD Candidate - Bioengineering and Robotics
+      time: 2019 - 2022
+      company: Robotics Brains and Cognitive Sciences, Istituto Italiano di Tecnologia
+      details: |
+        - Real-time evaluation of physiological metrics to predict the compliance with Social Engineering attacks.
+        - Machine and Deep learning models for behaviour classification and decision forecasting.
+        - High-level human-robot interactions and games with the humanoid robot iCub.
+    - role: Big Data Engineer
+      time: 2018 - 2019
+      company: Data Reply, Milan and Bologna
+      details: |
+        - Development and deploying process automation with DevOps principles.
+        - Full-stack development of Scala and Python applications, based on Spark and Cloudera, for Big Data processing in the vehicle insurance field.
+projects:
+    title: Projects
+    intro: >
+      todo
+    assignments:
+      - title: Social Engineering Adventure (SEA)
+        link: "#hook"
+        tagline: "Python textual adventure to challenge players against Social Engineering threats. Real-time control of the humanoid robot iCub (in C++). Multi-modal acquisition and processing of physiological data from an Eyelink 1000, a Tobii Pro Glasses 2 and a Shimmer3 GSR+, used to predict humans' compliance."
+
+      - title: Adventurer Robot Companion (ARC)
+        link: "#"
+        tagline: "Evolution of the SEA project developed during a Visiting Research period at the University of Waterloo (Canada). Exploration of different intervention strategies to prevent humans' compliance using the Furhat robot."
+
+      - title: E2E Lie Detection in HRI
+        link: "#"
+        tagline: "Machine Learning model to autonomously detect lies based on a real-time pupillometry-based cognitive load evaluation. Implemented on the humanoid robot iCub. Multiple interactions with the same partner improve the model's performance."
+
+      - title: Unreliable Treasure Hunt
+        link: "#"
+        tagline: "On-the-wild human-robot interaction to analyse the building and evolution of trust between a human and a robot. Participants have to find 6 eggs hidden in a room, asking hints to iCub which eventually show technical failures."
+
+publications:
+    title: Publications
+    intro: |
+      todo
+    papers:
+      - title: "Detecting Lies is a Child (Robot)'s Play, Gaze-Based Lie Detection in HRI"
+        link: "https://link.springer.com/article/10.1007/s12369-021-00822-5"
+        authors: <b>Pasquali Dario</b>, Gonzalez-Billandon Jonas, Aroyo Mois Alexander, Sandini Giulio, Sciutti Alessandra, Rea Francesco
+        conference: "Internaltional Journal of Social Robotics, 2021"
+
+      - title: "Expectations Vs. Reality: Unreliability and Transparency in a Treasure Hunt Game with iCub"
+        link: "https://ieeexplore.ieee.org/document/9440726"
+        authors: Aroyo M. Alexander,  <b>Pasquali Dario</b>,  Kothig Austin,  Rea Francesco,  Sandini Giulio,  Sciutti Alessandra
+        conference: "IEEE Robotos & Automation Letters, 2021"
+
+      - title: "Can a Robot Catch You Lying? A Machine Learning System to Detect Lies During Interactions"
+        link: "https://www.frontiersin.org/articles/10.3389/frobt.2019.00064/full"
+        authors: Gonzalez-Billandon Jonas,  Aroyo Alexander M.,  Tonelli Alessia,  <b>Pasquali Dario</b>,  Sciutti Alessandra,  Gori Monica,  Sandini Giulio,  Rea Francesco
+        conference: "Frontiers in Robotics and AI, 2019"
+
+      - title: "Human vs Robot Lie Detector - Better Working as a Team?"
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-90525-5_14"
+        authors: <b>Pasquali Dario</b>, Gaggero Davide, Volpe Gualtiero,  Rea Francesco,  Sciutti Alessandra
+        conference: "International Conference on Social Robotics, 2021"
+
+      - title: "Magic iCub - A humanoid robot autonomously catching your lies in a card game"
+        link: "https://dl.acm.org/doi/10.1145/3434073.3444682"
+        authors: <b>Pasquali Dario</b>, Gonzalez-Billandon Jonas,  Rea Francesco,  Sandini Giulio,  Sciutti Alessandra
+        conference: "International Conference on Human-Robot Interaction, 2020"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+© 2022 GitHub, Inc.
+Terms
+Privacy

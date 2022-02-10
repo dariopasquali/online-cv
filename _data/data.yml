@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,34 +7,42 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dario Pasquali
-    tagline: Postdoc Fellow @ IIT
-    avatar: me2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dario.pasquali@iit.it
-    phone: +39 3247956801
-    website: dariopasquali.github.io #do not add http://
-    linkedin: dario-pasquali
-    github: dariopasquali
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    citizenship:
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@DarioPasquali'
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: Italian
+      - idiom: English
         level: Native
 
-      - idiom: English
+      - idiom: French
         level: Professional
-        
+
+      - idiom: Spanish
+        level: Professional
+
     interests:
-      - item: Boardgames & Miniature Painting
+      - item: Climbing
         link:
 
-      - item: Beer homebrewing
+      - item: Snowboarding
         link:
 
       - item: Cooking
@@ -43,89 +51,121 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      TODO
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: MSc in Computer Engineering
-      university: University of Bologna
-      time: 2015 - 2018
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        Specialization in Artificial Intelligence and Software Engineering. Final degree 110/110 Summa Cum Laudae
-    - degree: BSc in Computer Engineering
-      university: University of Bologna
-      time: 2012 - 2015
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        todo 
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: Postdoctoral Fellow
-      time: 2022 - Present
-      company: COgNitive Architectures for Collaborative Technologies, Istituto Italiano di Tecnologia
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-        Enable a rover robot from Robotnik to support humans in a industrial workplace.
-        The robot navigates in the environment with context aweareness and functional memory,
-        learning and adapting to its humans fellows. 
-    - role: PhD Candidate - Bioengineering and Robotics
-      time: 2019 - 2022
-      company: Robotics Brains and Cognitive Sciences, Istituto Italiano di Tecnologia
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-        - Real-time evaluation of physiological metrics to predict the compliance with Social Engineering attacks.
-        - Machine and Deep learning models for behaviour classification and decision forecasting.
-        - High-level human-robot interactions and games with the humanoid robot iCub.
-    - role: Big Data Engineer
-      time: 2018 - 2019
-      company: Data Reply, Milan and Bologna
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-        - Development and deploying process automation with DevOps principles.
-        - Full-stack development of Scala and Python applications, based on Spark and Cloudera, for Big Data processing in the vehicle insurance field.
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Projects
     intro: >
-      todo
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Social Engineering Adventure (SEA)
+      - title: Velocity
         link: "#hook"
-        tagline: "Python textual adventure to challenge players against Social Engineering threats. Real-time control of the humanoid robot iCub (in C++). Multi-modal acquisition and processing of physiological data from an Eyelink 1000, a Tobii Pro Glasses 2 and a Shimmer3 GSR+, used to predict humans' compliance."
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Adventurer Robot Companion (ARC)
+      - title: DevStudio
         link: "#"
-        tagline: "Evolution of the SEA project developed during a Visiting Research period at the University of Waterloo (Canada). Exploration of different intervention strategies to prevent humans' compliance using the Furhat robot."
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: E2E Lie Detection in HRI
+      - title: Tempo
         link: "#"
-        tagline: "Machine Learning model to autonomously detect lies based on a real-time pupillometry-based cognitive load evaluation. Implemented on the humanoid robot iCub. Multiple interactions with the same partner improve the model's performance."
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Unreliable Treasure Hunt
+      - title: Atom
         link: "#"
-        tagline: "On-the-wild human-robot interaction to analyse the building and evolution of trust between a human and a robot. Participants have to find 6 eggs hidden in a room, asking hints to iCub which eventually show technical failures."
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      todo
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: "Detecting Lies is a Child (Robot)'s Play, Gaze-Based Lie Detection in HRI"
-        link: "https://link.springer.com/article/10.1007/s12369-021-00822-5"
-        authors: <b>Pasquali Dario</b>, Gonzalez-Billandon Jonas, Aroyo Mois Alexander, Sandini Giulio, Sciutti Alessandra, Rea Francesco
-        conference: "Internaltional Journal of Social Robotics, 2021"
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: "Expectations Vs. Reality: Unreliability and Transparency in a Treasure Hunt Game with iCub"
-        link: "https://ieeexplore.ieee.org/document/9440726"
-        authors: Aroyo M. Alexander,  <b>Pasquali Dario</b>,  Kothig Austin,  Rea Francesco,  Sandini Giulio,  Sciutti Alessandra
-        conference: "IEEE Robotos & Automation Letters, 2021"
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Can a Robot Catch You Lying? A Machine Learning System to Detect Lies During Interactions"
-        link: "https://www.frontiersin.org/articles/10.3389/frobt.2019.00064/full"
-        authors: Gonzalez-Billandon Jonas,  Aroyo Alexander M.,  Tonelli Alessia,  <b>Pasquali Dario</b>,  Sciutti Alessandra,  Gori Monica,  Sandini Giulio,  Rea Francesco
-        conference: "Frontiers in Robotics and AI, 2019"
-
-      - title: "Human vs Robot Lie Detector - Better Working as a Team?"
-        link: "https://link.springer.com/chapter/10.1007/978-3-030-90525-5_14"
-        authors: <b>Pasquali Dario</b>, Gaggero Davide, Volpe Gualtiero,  Rea Francesco,  Sciutti Alessandra
-        conference: "International Conference on Social Robotics, 2021"
-
-      - title: "Magic iCub - A humanoid robot autonomously catching your lies in a card game"
-        link: "https://dl.acm.org/doi/10.1145/3434073.3444682"
-        authors: <b>Pasquali Dario</b>, Gonzalez-Billandon Jonas,  Rea Francesco,  Sandini Giulio,  Sciutti Alessandra
-        conference: "International Conference on Human-Robot Interaction, 2020"
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -151,6 +191,3 @@ skills:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-© 2022 GitHub, Inc.
-Terms
-Privacy
