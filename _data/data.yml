@@ -81,8 +81,7 @@ experiences:
         - Full-stack development of Scala and Python applications, based on Spark and Cloudera, for Big Data processing in the vehicle insurance field.
 projects:
     title: Projects
-    intro: >
-      ...
+    intro: #>      ...
     assignments:
       - title: "Proactive Memory iN AI for Development"
         link: "https://robotnik.eu/projects/promen-aid-en/"
@@ -110,25 +109,32 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: #| ...
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Detecting Lies is a Child (Robot)'s Play, Gaze-Based Lie Detection in HRI"
+        link: "https://link.springer.com/article/10.1007/s12369-021-00822-5"
+        authors: "<b>Pasquali Dario</b>, Gonzalez-Billandon Jonas, Aroyo Mois Alexander, Sandini Giulio, Sciutti Alessandra, Rea Francesco"
+        conference: "Internaltional Journal of Social Robotics, 2021"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Expectations Vs. Reality: Unreliability and Transparency in a Treasure Hunt Game with iCub"
+        link: "https://ieeexplore.ieee.org/document/9440726"
+        authors: "Aroyo M. Alexander,  <b>Pasquali Dario</b>,  Kothig Austin,  Rea Francesco,  Sandini Giulio,  Sciutti Alessandra"
+        conference: "IEEE Robotos & Automation Letters, 2021"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Can a Robot Catch You Lying? A Machine Learning System to Detect Lies During Interactions"
+        link: "https://www.frontiersin.org/articles/10.3389/frobt.2019.00064/full"
+        authors: "Gonzalez-Billandon Jonas,  Aroyo Alexander M.,  Tonelli Alessia,  <b>Pasquali Dario</b>,  Sciutti Alessandra,  Gori Monica,  Sandini Giulio,  Rea Francesco"
+        conference: "Frontiers in Robotics and AI, 2019"
+
+      - title: "Human vs Robot Lie Detector - Better Working as a Team?"
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-90525-5_14"
+        authors: "<b>Pasquali Dario</b>, Gaggero Davide, Volpe Gualtiero,  Rea Francesco,  Sciutti Alessandra"
+        conference: "International Conference on Social Robotics, 2021"
+
+      - title: "Magic iCub - A humanoid robot autonomously catching your lies in a card game"
+        link: "https://dl.acm.org/doi/10.1145/3434073.3444682"
+        authors: "<b>Pasquali Dario</b>, Gonzalez-Billandon Jonas,  Rea Francesco,  Sandini Giulio,  Sciutti Alessandra"
+        conference: "International Conference on Human-Robot Interaction, 2020"
 
 skills:
     title: Skills &amp; Proficiency
