@@ -82,29 +82,31 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      ...
     assignments:
-      - title: Velocity
+      - title: "Proactive Memory iN AI for Development"
+        link: "https://robotnik.eu/projects/promen-aid-en/"
+        tagline: "Sponzorized by the european Human Brain Project (HBP)"
+
+      - title: "Social Engineering Adventure (SEA)"
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Python textual adventure to challenge players against Social Engineering threats. Real-time control of the humanoid robot iCub (in C++). Multi-modal acquisition and processing of physiological data from an Eyelink 1000, a Tobii Pro Glasses 2 and a Shimmer3 GSR+, used to predict humans' compliance."
 
-      - title: DevStudio
+      - title: "Adventurer Robot Companion (ARC)"
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Evolution of the SEA project developed during a Visiting Research period at the University of Waterloo (Canada). Exploration of different intervention strategies to prevent humans' compliance using the Furhat robot."
 
-      - title: Tempo
+      - title: "E2E Lie Detection in HRI"
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Machine Learning model to autonomously detect lies based on a real-time pupillometry-based cognitive load evaluation. Implemented on the humanoid robot iCub. Multiple interactions with the same partner improve the model's performance."
 
-      - title: Atom
+      - title: "Unreliable Treasure Hunt"
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "On-the-wild human-robot interaction to analyse the building and evolution of trust between a human and a robot. Participants have to find 6 eggs hidden in a room, asking hints to iCub which eventually show technical failures."
 
-      - title: Delta
+      - title: Endless Upgrade
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Master's Degree dissertation project @ Data Reply. I used DevOps principles and tools (Ansible, Terraform, Jenkins) to fully automatise the development and deployment process of a movie recommendation service in a Big Data ecosystem."
 
 publications:
     title: Publications
